@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+:root {
+  --background: #FAF8FC;
+  --foreground: #1E1625;
+  --primary: #7C3AED;
+  --primary-hover: #6D28D9;
+  --primary-glow: #C084FC;
+  --ink: #120E16;
+  --ink-light: #1B1424;
+  --secondary: #F3E8FF;
+  --muted-foreground: #6B5E7B;
+  --accent: #FDF4FF;
+  --border: #E8DEF0;
+  
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.font-serif-display {
+  font-family: var(--font-serif);
+}
+
+.font-body {
+  font-family: var(--font-sans);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #6D28D9 0%, #A855F7 50%, #EC4899 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-subtle {
+  background: linear-gradient(135deg, #1E1625 0%, #5B21B6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bg-aura {
+  background: radial-gradient(circle at 50% 0%, rgba(192, 132, 252, 0.15) 0%, rgba(250, 248, 252, 0) 70%);
+}
+
+.glass-nav {
+  background: rgba(250, 248, 252, 0.82);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(232, 222, 240, 0.8);
+}
+
+.glass-card-dark {
+  background: rgba(27, 20, 36, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(168, 85, 247, 0.2);
+}
+
+/* Custom Diffusion Transition Classes for Ultra-Smooth Image Blending */
+.diffusion-enter {
+  opacity: 1;
+  transform: scale(1.0);
+  filter: blur(0px);
+  z-index: 10;
+  transition: opacity 1200ms cubic-bezier(0.4, 0, 0.2, 1), transform 1500ms cubic-bezier(0.4, 0, 0.2, 1), filter 1200ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.diffusion-exit {
+  opacity: 0;
+  transform: scale(1.06);
+  filter: blur(8px);
+  z-index: 0;
+  transition: opacity 1200ms cubic-bezier(0.4, 0, 0.2, 1), transform 1500ms cubic-bezier(0.4, 0, 0.2, 1), filter 1200ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF8FC;
+}
+::-webkit-scrollbar-thumb {
+  background: #D8B4FE;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #A855F7;
+}

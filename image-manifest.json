@@ -1,0 +1,770 @@
+[
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/plugins/ba-book-everything/css/img/pointer_1.png",
+    "localPath": "/images/gallery/pointer-1.png",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/img/play-icon.png",
+    "localPath": "/images/brand/play-icon.png",
+    "section": "brand",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/plugins/instagram-feed-pro/img/placeholder.png",
+    "localPath": "/images/gallery/placeholder.png",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/01/WhatsApp-Image-2024-07-10-at-2.36.15-PM-1.jpeg",
+    "localPath": "/images/gallery/whatsapp-image-2024-07-10-at-2.36.15-pm-1.jpeg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/01/WhatsApp-Image-2024-07-10-at-2.36.15-PM.jpeg",
+    "localPath": "/images/gallery/whatsapp-image-2024-07-10-at-2.36.15-pm.jpeg",
+    "section": "gallery",
+    "componentFile": "src/components/VenueDecorGallery.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/01/WhatsApp-Image-2024-07-10-at-2.36.16-PM.jpeg",
+    "localPath": "/images/gallery/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/01/WhatsApp-Image-2024-07-10-at-2.36.17-PM.jpeg",
+    "localPath": "/images/gallery/whatsapp-image-2024-07-10-at-2.36.17-pm.jpeg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/01/WhatsApp-Image-2024-07-10-at-2.36.40-PM.jpeg",
+    "localPath": "/images/gallery/whatsapp-image-2024-07-10-at-2.36.40-pm.jpeg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/01/WhatsApp-Image-2024-07-10-at-2.37.13-PM.jpeg",
+    "localPath": "/images/gallery/whatsapp-image-2024-07-10-at-2.37.13-pm.jpeg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/01/logo-183x48-1.png",
+    "localPath": "/images/brand/logo-183x48-1.png",
+    "section": "brand",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/01/mi-casa-01-scaled.jpg",
+    "localPath": "/images/destinations/mi-casa-01-scaled.jpg",
+    "section": "destinations",
+    "componentFile": "src/components/Hero.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/01/mi-casa-02-scaled.jpg",
+    "localPath": "/images/destinations/mi-casa-02-scaled.jpg",
+    "section": "destinations",
+    "componentFile": "src/app/wedding/page.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/01/mi-casa-03-scaled.jpg",
+    "localPath": "/images/destinations/mi-casa-03-scaled.jpg",
+    "section": "destinations",
+    "componentFile": "src/app/wedding/page.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/01/mi-casa-04-scaled.jpg",
+    "localPath": "/images/destinations/mi-casa-04-scaled.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/01/mi-casa-05-scaled.jpg",
+    "localPath": "/images/destinations/mi-casa-05-scaled.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/01/mi-casa-06-scaled.jpg",
+    "localPath": "/images/destinations/mi-casa-06-scaled.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/Gruham-11.jpeg",
+    "localPath": "/images/destinations/gruham-11.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/Gruham-16.jpeg",
+    "localPath": "/images/destinations/gruham-16.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/Gruham-19.jpeg",
+    "localPath": "/images/destinations/gruham-19.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/Gruham-4.jpeg",
+    "localPath": "/images/destinations/gruham-4.jpeg",
+    "section": "destinations",
+    "componentFile": "src/components/ServicesSection.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/Gruham-7.jpeg",
+    "localPath": "/images/destinations/gruham-7.jpeg",
+    "section": "destinations",
+    "componentFile": "src/app/wedding/page.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/Gruham-9.jpeg",
+    "localPath": "/images/destinations/gruham-9.jpeg",
+    "section": "destinations",
+    "componentFile": "src/components/VenueDecorGallery.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/WhatsApp-Image-2024-12-09-at-12.50.59_d5c316a0.jpg",
+    "localPath": "/images/gallery/whatsapp-image-2024-12-09-at-12.50.59-d5c316a0.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/WhatsApp-Image-2024-12-09-at-12.51.02_ce376104.jpg",
+    "localPath": "/images/gallery/whatsapp-image-2024-12-09-at-12.51.02-ce376104.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/WhatsApp-Image-2024-12-09-at-12.51.05_7d15cce0.jpg",
+    "localPath": "/images/gallery/whatsapp-image-2024-12-09-at-12.51.05-7d15cce0.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/WhatsApp-Image-2024-12-09-at-12.51.06_2ff61202.jpg",
+    "localPath": "/images/gallery/whatsapp-image-2024-12-09-at-12.51.06-2ff61202.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/WhatsApp-Image-2024-12-09-at-12.51.08_c0093f93.jpg",
+    "localPath": "/images/gallery/whatsapp-image-2024-12-09-at-12.51.08-c0093f93.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/abhista-farm-1-1-e1709633034706.png",
+    "localPath": "/images/destinations/abhista-farm-1-1-e1709633034706.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/abhista-farm-10-e1709633406368.png",
+    "localPath": "/images/destinations/abhista-farm-10-e1709633406368.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/abhista-farm-2-1-e1709633089111.png",
+    "localPath": "/images/destinations/abhista-farm-2-1-e1709633089111.png",
+    "section": "destinations",
+    "componentFile": "src/components/Hero.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/abhista-farm-3-1-e1709633124552.png",
+    "localPath": "/images/destinations/abhista-farm-3-1-e1709633124552.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/abhista-farm-3-2-e1709633156855.png",
+    "localPath": "/images/destinations/abhista-farm-3-2-e1709633156855.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/abhista-farm-4-1-e1709633186988.png",
+    "localPath": "/images/destinations/abhista-farm-4-1-e1709633186988.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/abhista-farm-5-e1709633230108.png",
+    "localPath": "/images/destinations/abhista-farm-5-e1709633230108.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/abhista-farm-6-e1709633260915.png",
+    "localPath": "/images/destinations/abhista-farm-6-e1709633260915.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/abhista-farm-7-e1709633297472.png",
+    "localPath": "/images/destinations/abhista-farm-7-e1709633297472.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/abhista-farm-8-e1709633340470.png",
+    "localPath": "/images/destinations/abhista-farm-8-e1709633340470.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/abhista-farm-9-e1709633374751.png",
+    "localPath": "/images/destinations/abhista-farm-9-e1709633374751.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/blue-lagoon-1.jpg",
+    "localPath": "/images/destinations/blue-lagoon-1.jpg",
+    "section": "destinations",
+    "componentFile": "src/components/VenueDecorGallery.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/blue-lagoon-10.jpg",
+    "localPath": "/images/destinations/blue-lagoon-10.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/blue-lagoon-2.jpg",
+    "localPath": "/images/destinations/blue-lagoon-2.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/blue-lagoon-3.jpg",
+    "localPath": "/images/destinations/blue-lagoon-3.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/blue-lagoon-4.jpg",
+    "localPath": "/images/destinations/blue-lagoon-4.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/blue-lagoon-5.jpg",
+    "localPath": "/images/destinations/blue-lagoon-5.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/blue-lagoon-6.jpg",
+    "localPath": "/images/destinations/blue-lagoon-6.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/blue-lagoon-7.jpg",
+    "localPath": "/images/destinations/blue-lagoon-7.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/blue-lagoon-8.jpg",
+    "localPath": "/images/destinations/blue-lagoon-8.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/blue-lagoon-9.jpg",
+    "localPath": "/images/destinations/blue-lagoon-9.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/namma-mane-10.png",
+    "localPath": "/images/destinations/namma-mane-10.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/namma-mane-2.png",
+    "localPath": "/images/destinations/namma-mane-2.png",
+    "section": "destinations",
+    "componentFile": "src/components/ServicesSection.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/namma-mane-3.png",
+    "localPath": "/images/destinations/namma-mane-3.png",
+    "section": "destinations",
+    "componentFile": "src/app/wedding/page.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/namma-mane-4.png",
+    "localPath": "/images/destinations/namma-mane-4.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/namma-mane-5.png",
+    "localPath": "/images/destinations/namma-mane-5.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/namma-mane-6.png",
+    "localPath": "/images/destinations/namma-mane-6.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/namma-mane-7.png",
+    "localPath": "/images/destinations/namma-mane-7.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/namma-mane-8.png",
+    "localPath": "/images/destinations/namma-mane-8.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/namma-mane-9.png",
+    "localPath": "/images/destinations/namma-mane-9.png",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/prana-1.jpeg",
+    "localPath": "/images/destinations/prana-1.jpeg",
+    "section": "destinations",
+    "componentFile": "src/components/ServicesSection.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/prana-10-e1709634467821.jpeg",
+    "localPath": "/images/destinations/prana-10-e1709634467821.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/prana-2.jpeg",
+    "localPath": "/images/destinations/prana-2.jpeg",
+    "section": "destinations",
+    "componentFile": "src/app/staycations/page.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/prana-3.jpeg",
+    "localPath": "/images/destinations/prana-3.jpeg",
+    "section": "destinations",
+    "componentFile": "src/app/staycations/page.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/prana-4-e1709634356549.jpeg",
+    "localPath": "/images/destinations/prana-4-e1709634356549.jpeg",
+    "section": "destinations",
+    "componentFile": "src/app/staycations/page.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/prana-5.jpeg",
+    "localPath": "/images/destinations/prana-5.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/prana-6.jpeg",
+    "localPath": "/images/destinations/prana-6.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/prana-7.jpeg",
+    "localPath": "/images/destinations/prana-7.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/prana-8-e1709634424697.jpeg",
+    "localPath": "/images/destinations/prana-8-e1709634424697.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/02/prana-9.jpeg",
+    "localPath": "/images/destinations/prana-9.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/10/bg-14.jpg",
+    "localPath": "/images/gallery/bg-14.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/10/team-1.jpg",
+    "localPath": "/images/advisors/team-1.jpg",
+    "section": "advisors",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/10/team-2.jpg",
+    "localPath": "/images/advisors/team-2.jpg",
+    "section": "advisors",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/10/team-3.jpg",
+    "localPath": "/images/advisors/team-3.jpg",
+    "section": "advisors",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/10/team-4.jpg",
+    "localPath": "/images/advisors/team-4.jpg",
+    "section": "advisors",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2023/10/team-5.jpg",
+    "localPath": "/images/advisors/team-5.jpg",
+    "section": "advisors",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/8383.jpg",
+    "localPath": "/images/gallery/8383.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Abhistha-farms-photos-12.jpg",
+    "localPath": "/images/gallery/abhistha-farms-photos-12.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Abhistha-farms-photos-30.jpg",
+    "localPath": "/images/gallery/abhistha-farms-photos-30.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Abhistha-farms-photos-35.jpg",
+    "localPath": "/images/gallery/abhistha-farms-photos-35.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Abhistha-farms-photos-43.jpg",
+    "localPath": "/images/gallery/abhistha-farms-photos-43.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Airbnb_Logo.png",
+    "localPath": "/images/brand/airbnb-logo.png",
+    "section": "brand",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Campings.jpg",
+    "localPath": "/images/gallery/campings.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Chazing-Purple-logo.png",
+    "localPath": "/images/brand/chazing-purple-logo.png",
+    "section": "brand",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Gruham-17.jpeg",
+    "localPath": "/images/destinations/gruham-17.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Gruham-property.jpeg",
+    "localPath": "/images/destinations/gruham-property.jpeg",
+    "section": "destinations",
+    "componentFile": "src/app/wedding/page.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Nammamane-12.jpeg",
+    "localPath": "/images/gallery/nammamane-12.jpeg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Nammamane-15.jpeg",
+    "localPath": "/images/gallery/nammamane-15.jpeg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Nammamane-18.jpeg",
+    "localPath": "/images/gallery/nammamane-18.jpeg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Nammamane-23.jpeg",
+    "localPath": "/images/gallery/nammamane-23.jpeg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Tripadvisor.png",
+    "localPath": "/images/advisors/tripadvisor.png",
+    "section": "advisors",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Wedding.jpg",
+    "localPath": "/images/experiences/wedding.jpg",
+    "section": "experiences",
+    "componentFile": "src/components/VenueDecorGallery.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/Wedding1.jpg",
+    "localPath": "/images/experiences/wedding1.jpg",
+    "section": "experiences",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/agoda.jpg",
+    "localPath": "/images/gallery/agoda.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/barbeque-1.jpg",
+    "localPath": "/images/gallery/barbeque-1.jpg",
+    "section": "gallery",
+    "componentFile": "src/components/ExperienceFeaturesSection.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/barbeque-2.jpg",
+    "localPath": "/images/gallery/barbeque-2.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/blue-lagoon-1.jpeg",
+    "localPath": "/images/destinations/blue-lagoon-1.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/blue-lagoon-17.jpeg",
+    "localPath": "/images/destinations/blue-lagoon-17.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/blue-lagoon-18.jpeg",
+    "localPath": "/images/destinations/blue-lagoon-18.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/blue-lagoon-2.jpeg",
+    "localPath": "/images/destinations/blue-lagoon-2.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/blue-lagoon-3.jpeg",
+    "localPath": "/images/destinations/blue-lagoon-3.jpeg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/bonfire.jpg",
+    "localPath": "/images/experiences/bonfire.jpg",
+    "section": "experiences",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/booking.png",
+    "localPath": "/images/gallery/booking.png",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/karaoke-nights.jpg",
+    "localPath": "/images/gallery/karaoke-nights.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/logo-183x48-1.png",
+    "localPath": "/images/brand/logo-183x48-1.png",
+    "section": "brand",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/movie-screening.jpg",
+    "localPath": "/images/gallery/movie-screening.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/offer.png",
+    "localPath": "/images/gallery/offer.png",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/offer1.png",
+    "localPath": "/images/gallery/offer1.png",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/prana-45-1-scaled.jpg",
+    "localPath": "/images/destinations/prana-45-1-scaled.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/prana-54-scaled.jpg",
+    "localPath": "/images/destinations/prana-54-scaled.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/prana-6-scaled.jpg",
+    "localPath": "/images/destinations/prana-6-scaled.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/prana-63-scaled.jpg",
+    "localPath": "/images/destinations/prana-63-scaled.jpg",
+    "section": "destinations",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/02/solo-performance.jpg",
+    "localPath": "/images/gallery/solo-performance.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2024/03/Chazing-Purple-Logo.png",
+    "localPath": "/images/brand/chazing-purple-logo.png",
+    "section": "brand",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/00.jpeg",
+    "localPath": "/images/gallery/00.jpeg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/01-scaled.jpg",
+    "localPath": "/images/gallery/01-scaled.jpg",
+    "section": "gallery",
+    "componentFile": "src/components/ServicesSection.tsx"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/03-scaled.jpg",
+    "localPath": "/images/gallery/03-scaled.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/03.jpg",
+    "localPath": "/images/gallery/03.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/04-scaled.jpg",
+    "localPath": "/images/gallery/04-scaled.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/05-scaled.jpg",
+    "localPath": "/images/gallery/05-scaled.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/06-scaled.jpg",
+    "localPath": "/images/gallery/06-scaled.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/IMG-20250827-WA0011.jpg",
+    "localPath": "/images/gallery/img-20250827-wa0011.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/IMG-20250827-WA0020.jpg",
+    "localPath": "/images/gallery/img-20250827-wa0020.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/IMG_9549-scaled.jpg",
+    "localPath": "/images/gallery/img-9549-scaled.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/IMG_9551-scaled.jpg",
+    "localPath": "/images/gallery/img-9551-scaled.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/IMG_9554-scaled.jpg",
+    "localPath": "/images/gallery/img-9554-scaled.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/IMG_9563-scaled.jpg",
+    "localPath": "/images/gallery/img-9563-scaled.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/IMG_9570-scaled.jpg",
+    "localPath": "/images/gallery/img-9570-scaled.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/IMG_9572-scaled.jpg",
+    "localPath": "/images/gallery/img-9572-scaled.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/IMG_9580-scaled.jpg",
+    "localPath": "/images/gallery/img-9580-scaled.jpg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  },
+  {
+    "originalUrl": "https://www.chazingpurple.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-28-at-1.25.00-PM.jpeg",
+    "localPath": "/images/gallery/whatsapp-image-2025-08-28-at-1.25.00-pm.jpeg",
+    "section": "gallery",
+    "componentFile": "Pending mapping"
+  }
+]
