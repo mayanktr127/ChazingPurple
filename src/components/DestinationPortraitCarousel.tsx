@@ -16,7 +16,7 @@ export default function DestinationPortraitCarousel() {
       title: 'Blue Lagoon Resort Pool & Facade',
       photos: [
         '/images/destinations/blue-lagoon-1.jpg',
-        '/images/destinations/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
+        '/images/gallery/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
         '/images/destinations/mi-casa-01-scaled.jpg',
         '/images/destinations/prana-1.jpeg',
       ],
@@ -25,7 +25,7 @@ export default function DestinationPortraitCarousel() {
       id: '2',
       title: 'Pool Deck Overlooking Hills',
       photos: [
-        '/images/destinations/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
+        '/images/gallery/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
         '/images/destinations/gruham-4.jpeg',
         '/images/destinations/namma-mane-2.png',
         '/images/destinations/blue-lagoon-1.jpg',
@@ -47,7 +47,7 @@ export default function DestinationPortraitCarousel() {
       photos: [
         '/images/destinations/prana-1.jpeg',
         '/images/destinations/blue-lagoon-1.jpg',
-        '/images/destinations/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
+        '/images/gallery/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
         '/images/destinations/gruham-4.jpeg',
       ],
     },

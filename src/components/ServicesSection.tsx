@@ -99,7 +99,7 @@ const services: ServiceItem[] = [
       '24/7 on-site caretaker & property preservation',
       'Interior styling & amenity optimization',
     ],
-    image: '/images/destinations/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
+    image: '/images/gallery/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
   },
 ];
 

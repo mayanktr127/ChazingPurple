@@ -63,7 +63,7 @@ const galleryItems: GalleryItem[] = [
     category: 'La Roma Vista',
     title: 'La Roma Vista Valley View Deck',
     type: 'image',
-    url: '/images/destinations/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
+    url: '/images/gallery/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
   },
   {
     id: '8',
@@ -123,7 +123,7 @@ export default function GalleryPage() {
         badge="CURATED PORTFOLIO"
         title="Visual Memories & Estate Gallery"
         subtitle="Step inside Chazing Purple retreats. Explore high-resolution captures of our luxury farmhouses, poolside lawns, and celebration decor."
-        bgImage="/images/destinations/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg"
+        bgImage="/images/gallery/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg"
       />
 
       <section className="py-16 max-w-7xl mx-auto px-6 md:px-12">

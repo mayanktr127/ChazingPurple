@@ -24,10 +24,10 @@ const destinationsList: DestinationCardData[] = [
     sqftLabel: '1,306,800 Sq Ft',
     person: '43',
     images: [
-      '/images/destinations/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
+      '/images/gallery/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
       '/images/destinations/blue-lagoon-1.jpg',
-      'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80',
+      '/images/destinations/blue-lagoon-2.jpg',
+      '/images/destinations/blue-lagoon-3.jpg',
     ],
   },
   {
@@ -38,9 +38,9 @@ const destinationsList: DestinationCardData[] = [
     person: '15',
     images: [
       '/images/destinations/mi-casa-01-scaled.jpg',
-      '/images/destinations/gruham-property.jpeg',
       '/images/destinations/mi-casa-02-scaled.jpg',
       '/images/destinations/mi-casa-03-scaled.jpg',
+      '/images/destinations/mi-casa-04-scaled.jpg',
     ],
   },
   {
@@ -51,9 +51,9 @@ const destinationsList: DestinationCardData[] = [
     person: '25',
     images: [
       '/images/destinations/gruham-4.jpeg',
-      '/images/destinations/gruham-property.jpeg',
       '/images/destinations/gruham-7.jpeg',
       '/images/destinations/gruham-9.jpeg',
+      '/images/destinations/gruham-11.jpeg',
     ],
   },
   {
@@ -64,9 +64,9 @@ const destinationsList: DestinationCardData[] = [
     person: '12',
     images: [
       '/images/destinations/blue-lagoon-1.jpg',
-      'https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&w=800&q=80',
-      '/images/destinations/mi-casa-02-scaled.jpg',
-      '/images/destinations/gruham-7.jpeg',
+      '/images/destinations/blue-lagoon-2.jpg',
+      '/images/destinations/blue-lagoon-3.jpg',
+      '/images/destinations/blue-lagoon-4.jpg',
     ],
   },
   {
@@ -91,8 +91,8 @@ const destinationsList: DestinationCardData[] = [
     images: [
       '/images/destinations/namma-mane-2.png',
       '/images/destinations/namma-mane-3.png',
-      '/images/destinations/mi-casa-03-scaled.jpg',
-      '/images/destinations/gruham-property.jpeg',
+      '/images/destinations/namma-mane-4.png',
+      '/images/destinations/namma-mane-5.png',
     ],
   },
   {
@@ -103,9 +103,9 @@ const destinationsList: DestinationCardData[] = [
     person: '40',
     images: [
       '/images/destinations/abhista-farm-2-1-e1709633089111.png',
-      '/images/experiences/wedding.jpg',
-      '/images/destinations/gruham-9.jpeg',
-      '/images/gallery/whatsapp-image-2024-07-10-at-2.36.15-pm.jpeg',
+      '/images/destinations/abhista-farm-1-1-e1709633034706.png',
+      '/images/destinations/abhista-farm-3-1-e1709633124552.png',
+      '/images/destinations/abhista-farm-5-e1709633230108.png',
     ],
   },
   {
@@ -116,9 +116,9 @@ const destinationsList: DestinationCardData[] = [
     person: '30',
     images: [
       '/images/gallery/01-scaled.jpg',
-      'https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=800&q=80',
+      '/images/gallery/03-scaled.jpg',
+      '/images/gallery/04-scaled.jpg',
+      '/images/gallery/campings.jpg',
     ],
   },
 ];

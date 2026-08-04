@@ -136,7 +136,7 @@ export default function PropertyOwnersPage() {
         badge="FOR PROPERTY OWNERS & PARTNERS"
         title="Partner Your Property with Chazing Purple"
         subtitle="Collaborate with Chazing Purple as a property owner or service provider to monetize your estate with assured ROI, professional hospitality management, and wide client reach."
-        bgImage="/images/destinations/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg"
+        bgImage="/images/gallery/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg"
         ctaText="Partner With Us"
         ctaHref="#partner-form"
       />

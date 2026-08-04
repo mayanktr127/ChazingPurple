@@ -84,7 +84,7 @@ const propertiesList: DestinationProperty[] = [
     id: 'la-roma-vista',
     name: 'LA ROMA VISTA (BLUE VALLEY)',
     tagline: 'Escape. Elevate. Experience the Valley Vibes',
-    image: '/images/destinations/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
+    image: '/images/gallery/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
     price: '₹20,000 / night',
     guestCapacity: 'Up to 35 Guests',
     capacityRange: '30-100',

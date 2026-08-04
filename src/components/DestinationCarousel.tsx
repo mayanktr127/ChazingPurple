@@ -58,7 +58,7 @@ const destinationSlides: DestinationSlide[] = [
     id: 'blue-valley',
     title: 'BLUE VALLEY (LA ROMA VISTA)',
     subtitle: 'Escape. Elevate. Experience the Valley Vibes',
-    image: '/images/destinations/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
+    image: '/images/gallery/whatsapp-image-2024-07-10-at-2.36.16-pm.jpeg',
     fallbackImage: 'https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1800&q=85',
     link: '/destinations#la-roma-vista',
   },
