@@ -38,9 +38,7 @@ const destinationsData: Record<string, DestinationData> = {
       '/images/gallery/whatsapp-image-2024-07-10-at-2.36.17-pm.jpeg',
       '/images/gallery/whatsapp-image-2024-07-10-at-2.36.40-pm.jpeg',
       '/images/gallery/whatsapp-image-2024-07-10-at-2.37.13-pm.jpeg',
-      '/images/destinations/blue-lagoon-1.jpg',
-      '/images/destinations/blue-lagoon-2.jpg',
-      '/images/destinations/blue-lagoon-3.jpg',
+      '/images/gallery/bg-14.jpg',
     ],
     features: [
       '10 Air-Conditioned Luxury AC Bedrooms',
